@@ -1,5 +1,13 @@
 # MLE Econometrics Notebook
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Econometrics](https://img.shields.io/badge/Econometrics-MLE%20%7C%20OLS-red.svg)](https://en.wikipedia.org/wiki/Econometrics)
+[![Stats](https://img.shields.io/badge/Statistics-Robust%20SE%20%7C%20Heteroscedasticity-purple.svg)](https://en.wikipedia.org/wiki/Robust_standard_error)
+[![Notebooks](https://img.shields.io/badge/Notebooks-7%20Files-brightgreen.svg)](https://jupyter.org/)
+[![Dependencies](https://img.shields.io/badge/Dependencies-7%20Packages-yellow.svg)](https://pypi.org/)
+
 Welcome to the **MLE Econometrics Notebook** repository! This project contains a series of Python notebooks that demonstrate econometric techniques using Maximum Likelihood Estimation (MLE) and Ordinary Least Squares (OLS), with a focus on robust standard error calculations and heteroscedasticity tests.
 
 ## Repository Overview
@@ -9,25 +17,25 @@ This repository is a collection of Jupyter notebooks designed to provide clear a
 ## Table of Contents
 
 ### Notebooks
-1. **[MLE Linear Model in Python](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_linear_model_python.ipynb)**  
+1. **[MLE Linear Model in Python](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_linear_model_python.ipynb)**  
    Implements a linear regression model using Maximum Likelihood Estimation (MLE). Includes comprehensive model diagnostics and visualizations.
 
-2. **[OLS Linear Model in Python](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/OLS_linear_model_Python.ipynb)**  
+2. **[OLS Linear Model in Python](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/OLS_linear_model_Python.ipynb)**  
    Demonstrates a traditional Ordinary Least Squares (OLS) regression with diagnostics and visualizations.
 
-3. **[HC0 Robust Standard Errors](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_HC0_Python.ipynb)**  
+3. **[HC0 Robust Standard Errors](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_HC0_Python.ipynb)**  
    Calculates robust standard errors (HC0) to account for heteroscedasticity in residuals.
 
-4. **[HC1 Robust Standard Errors](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_HC1_Python.ipynb)**  
+4. **[HC1 Robust Standard Errors](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_HC1_Python.ipynb)**  
    Implements HC1 robust standard errors with finite-sample corrections for smaller datasets.
 
-5. **[HC2 Robust Standard Errors](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_HC2_Python.ipynb)**  
+5. **[HC2 Robust Standard Errors](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_HC2_Python.ipynb)**  
    Includes leverage adjustments for residuals using HC2 robust standard errors.
 
-6. **[HC3 Robust Standard Errors](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_HC3_Python.ipynb)**  
+6. **[HC3 Robust Standard Errors](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_HC3_Python.ipynb)**  
    Features a stricter leverage adjustment approach with HC3 robust standard errors for high-leverage observations.
 
-7. **[White Test for Heteroscedasticity](https://github.com/simonpierreboucher/mle_econometrics_notebook/blob/main/MLE_White_test_python.ipynb)**  
+7. **[White Test for Heteroscedasticity](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main/blob/main/MLE_White_test_python.ipynb)**  
    Conducts a White Test to detect heteroscedasticity in regression residuals.
 
 ---
@@ -58,11 +66,11 @@ This repository is a collection of Jupyter notebooks designed to provide clear a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/simonpierreboucher/mle_econometrics_notebook.git
+   git clone https://github.com/simonpierreboucher02/mle_econometrics_notebook-main.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd mle_econometrics_notebook
+   cd mle_econometrics_notebook-main
    ```
 3. Install the required packages:
    ```bash
@@ -90,7 +98,7 @@ This repository is maintained by **Simon-Pierre Boucher**. Feel free to reach ou
 
 ## Repository URL
 
-[https://github.com/simonpierreboucher/mle_econometrics_notebook](https://github.com/simonpierreboucher/mle_econometrics_notebook)
+[https://github.com/simonpierreboucher02/mle_econometrics_notebook-main](https://github.com/simonpierreboucher02/mle_econometrics_notebook-main)
 
 ---
 
